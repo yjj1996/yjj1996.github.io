@@ -397,3 +397,4 @@ function scrollToTop() {
     document.getElementById("name-container").setAttribute("style", "display:none");
     btf.scrollToDest(0, 500);
 }
+
